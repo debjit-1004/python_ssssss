@@ -1,5 +1,5 @@
-import mysql.connector as sruti
-con = sruti.connect(
+import mysql.connector as debjit
+con = debjit.connect(
     host='localhost',
     user="root",
     password="system"
